@@ -3,3 +3,6 @@
 
 # ignores data folder
 data/
+
+# ignores saved model
+*.pth
