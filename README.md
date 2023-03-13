@@ -7,7 +7,6 @@
 - can store 2D or 3D objects
 - originally developed for [Geomview](http://www.geomview.org/), a geometry visualization software
 
-<br>
 
 ### Composition of an OFF File:
 
@@ -30,13 +29,12 @@
     - the vertex indices are in order (indexed from 0)
     - optionally, RGB values for the face color can follow the elements of the faces
 
-<br>
+
+### Sample OFF File:
 
 ```
-Sample OFF File:
-
-# avoid spaces between lines/sections
-# spaces between sections are added for readability
+# avoid comments and spaces between lines/sections
+# the comments and spaces are added for readability
 
 # Line 1
 OFF
@@ -64,5 +62,4 @@ OFF
 4  5 6 2 1  0 255 0 
 4  3 2 6 7  0 0 255
 4  6 5 4 7  255 0 0
-
 ```
