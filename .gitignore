@@ -1,2 +1,5 @@
-# jupyter notebook checkpoints folder
+# ignores jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# ignores data folder
+data/
