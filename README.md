@@ -35,6 +35,9 @@
 ```
 Sample OFF File:
 
+# avoid spaces between lines/sections
+# spaces between sections are added for readability
+
 # Line 1
 OFF
 
